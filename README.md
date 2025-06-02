@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Samagra!
+### Hi, I'm Sam!
 
 👨‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
 🧑‍🎓 Currently studying [Computer Science](https://dseu.ac.in/) at the Delhi Skill and Entrepreneurship University, New Delhi, India.<br/>
