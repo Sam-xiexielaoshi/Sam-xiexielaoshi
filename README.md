@@ -4,6 +4,7 @@
 
 👨‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
 🧑‍🎓 Currently studying [Computer Science](https://dseu.ac.in/) at the Delhi Skill and Entrepreneurship University, New Delhi, India.<br/>
+🔗 Link to my [old portfolio](https://sam-xiexielaoshi.github.io/2d-old-portfolio/) & [new one](https://sam-xiexielaoshi.github.io/Game-folio/).<br/>
 ⚡ Yearning to learn new stuff about Computer Science, Medical Science and tech.<br/>
 🌱 Currently learning about [App Development](), [Web Development]() and [Game Development]().<br/>
 
